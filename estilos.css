@@ -1,0 +1,23 @@
+.contenedor a{ /*selector combinado*/
+    text-decoration: none; /*elimina el subrayado*/
+    color: magenta; /*da color*/
+    font-size: 20px; /*cambia el tamaño de la letra*/
+    font-weight: bold; /*pone negritas*/
+}
+h2{
+    color: gold; /*da color*/
+}
+p{
+    font-size: 18px;/*cambia el tamaño de la letra*/
+    color: indigo; /*da color*/
+}
+h3{
+    color: coral; /*da color*/
+    text-align: center; /*centra el texto*/
+}
+.contenedor2 p{
+    color: chocolate; /*da color*/
+}
+.contenedor2 a{
+    color: crimson /*da color*/
+}
